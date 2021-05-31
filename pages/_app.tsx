@@ -13,7 +13,7 @@ const App = ({ Component, pageProps }) => {
       <DefaultSeo
         titleTemplate='%s - GigSir'
         title='Loading'
-        description='Providing the best of the best when it comes to finding digital freelancing.'
+        description="The first freelancing marketplace that doesn't cut into your contractor's paycheck. When you use GigSir, your contractor will thank you. GigSir is coming soon."
       />
       {/* NextSeo doesn't support icons. We need the regular Head component for this. */}
       <Head>
